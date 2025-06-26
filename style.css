@@ -3,3 +3,8 @@ body{
     color: red;
     margin: 0px;
 }
+
+header{
+    border-bottom: inset 3px rgb(75, 68, 68);
+
+}
