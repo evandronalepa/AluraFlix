@@ -1,10 +1,10 @@
 body{
     background-color: black;
-    color: red;
+    color: rgb(125, 5, 5);
     margin: 0px;
 }
 
 header{
-    border-bottom: inset 3px rgb(75, 68, 68);
+    border-bottom: inset 3px rgb(65, 56, 56);
 
 }
