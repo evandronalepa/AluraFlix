@@ -34,3 +34,10 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }
+
+h2{
+    border-bottom: inset 3px rgb(231, 236, 93);
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(240, 207, 16)
+}
