@@ -49,9 +49,6 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 10px;
-}
-
-.categoria-vídeos{
     padding-left: 20px;
     padding-right: 20px;
 }
