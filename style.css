@@ -54,9 +54,9 @@ img{
 }
 
 .categoria-videos img{
-    opacity: 0.5;
+    opacity:0.5;
 }
 
 .categoria-videos img-hover{
-    opacity: 1.0;
+    opacity:1.0;
 }
